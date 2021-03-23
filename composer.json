@@ -1,5 +1,5 @@
 {
-    "name": "cazoo/laravel_framework",
+    "name": "laravel/framework",
     "description": "The Cazoo Laravel Framework Fork.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
